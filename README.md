@@ -25,8 +25,6 @@
    
 *  Flight Prices Data: Historical and current flight prices sourced from given dataset.
 *  Airline Information: Data on airlines, including performance metrics and customer reviews.
-*  Weather Data: Historical weather conditions impacting flight prices. 
-*  Economic Indicators: Data on economic factors such as fuel prices, GDP, and other relevant metrics.
 
 4. Usage 🛠️ :
 
